@@ -1,5 +1,5 @@
 # XYZMine
-Little program that transforms your coordinates from Otherwrold to Nether`s in Minecraft
+Little program that transforms your coordinates from Otherwrold to Nether in Minecraft
 
 
 <!> You have to put the data in all the inputs, or it will cause error!
