@@ -11,7 +11,12 @@ Little program that transforms your coordinates from Overwrold to Nether in Mine
 
 
 //Instalation : 
-Program requiers .NET6, which you can install form the ZIP Archive
+Program requiers .NET6, which you can install here:
+
+
+
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?cid=getdotnetcore
+(Run desktop apps)
 
 
 
