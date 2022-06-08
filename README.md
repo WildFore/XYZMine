@@ -10,7 +10,7 @@ Little program that transforms your coordinates from Overwrold to Nether in Mine
 
 
 
-//Instalation
+//Instalation : 
 Program requiers .NET6, which you can install form Required folder
 
 
